@@ -1,0 +1,13 @@
+{
+  "categorieCode": "inv",
+  "categorieShortCode": "invertebrados",
+  "categorieName": "Invertebrados",
+  "animals": [
+    {
+      "animalIndex": 0,
+      "animalCode": "",
+      "animalName": "",
+      "clues": []
+    }
+  ]
+}

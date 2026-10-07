@@ -1,0 +1,22 @@
+{
+  "categorieCode": "mamiferos",
+  "categorieShortCode": "mam",
+  "categorieName": "Mamíferos",
+  "animals": [
+    {
+      "animalIndex": 25,
+      "animalCode": "javali",
+      "animalName": "Javali",
+      "clues": [
+        "É o prato favorito de Astexrix, Obelix e de todos os gauleses (Desenho).",
+        "É o ancestral do porco doméstico.",
+        "Seus dentes caninos, em forma de foice, crescem continuamente; nos machos são tão desenvolvidos do que se projetam para fora da boca.",
+        "Sua alimentação inclui vegetais, frutos, insetos, roedores, sapos, peixes, cobras, aves que chocam os osvos no chão, e até os ovos.",
+        "Na TV ou no cinema sou o Pumba.",
+        "Sua visão é muito fraca; em compensação, a audição e o olfato são excelentes.",
+        "Quando está irritado, bufa e eriça os pêlos das costas.",
+        "Seus filhotes caracterizam-se pelas listras nos pêlos."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "categorieCode": "",
+  "categorieShortCode": "",
+  "categorieName": "",
+  "animals": [
+    {
+      "animalIndex": 0,
+      "animalCode": "",
+      "animalName": "",
+      "clues": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "categorieCode": "rap",
+  "categorieShortCode": "repteis-anfibios-e-peixes",
+  "categorieName": "Répteis, Anfíbios e Peixes",
+  "animals": [
+    {
+      "animalIndex": 0,
+      "animalCode": "",
+      "animalName": "",
+      "clues": []
+    }
+  ]
+}

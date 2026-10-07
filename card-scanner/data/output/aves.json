@@ -1,0 +1,13 @@
+{
+  "categorieCode": "ave",
+  "categorieShortCode": "aves",
+  "categorieName": "Aves",
+  "animals": [
+    {
+      "animalIndex": 0,
+      "animalCode": "",
+      "animalName": "",
+      "clues": []
+    }
+  ]
+}
