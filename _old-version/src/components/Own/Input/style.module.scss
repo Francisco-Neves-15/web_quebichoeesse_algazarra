@@ -1,0 +1,15 @@
+@use "@styles/scss/mixins.scss" as mixins;
+@use "@styles/scss/variables" as vars;
+
+.inputBase {
+  padding: 0.4rem 0.6rem; 
+}
+
+.inputDefault {
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--neutral);
+  &:focus {
+    border: 0.1rem solid var(--primary-200);
+    outline: none;
+  }
+}

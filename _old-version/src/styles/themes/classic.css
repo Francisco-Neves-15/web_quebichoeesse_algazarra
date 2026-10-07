@@ -1,0 +1,49 @@
+/* Card Base */
+:root {
+	--card-primary-classic: #16381e;
+	--card-secondary-classic: #3d6a3b;
+	--card-background-classic: #f4f4f4;
+}
+
+/* Theme Base */
+:root {
+	/* Colors */
+	--primary-100: #060f08;
+	--primary-200: #16381e;
+	--primary-300: #2e5b38;
+	--secondary-100: #243f23;
+	--secondary-200: #3d6a3b;
+	--secondary-300: #5a9457;
+	--neutral: #7f7f7f;
+	/* Colors Opacity */
+	--primary-opacity: #16381e80;
+	--secondary-opacity: #3d6a3b80;
+	--neutral-opacity: #7f7f7f80;
+	/* Back */
+	--background: #f4f4f4;
+	--mutedbackground: #f4f4f480;
+	--foreground: #0b0b0b;
+	--mutedforeground: #0b0b0b80;
+	/* Text */
+	--text: #0b0b0b;
+	--text-inverted: #f4f4f4;
+	--link: #2a4728;
+	/* Miscellaneous */
+	--selection-bg: #3d6a3bbf;
+	--selection-text: #f4f4f4;
+	--scrollbar-bg: #d4d4d4;
+	--scrollbar-cl: #16381e;
+	--scrollbar-cl-hover: #3d6a3b;
+}
+
+/* Theme Dark */
+:root body.dark {
+	--background: #0b0b0b;
+	--mutedbackground: #0b0b0b80;
+	--foreground: #f4f4f4;
+	--mutedforeground: #f4f4f480;
+	--text: #f4f4f4;
+	--text-inverted: #0b0b0b;
+	--link: #58e077;
+	--scrollbar-bg: #2b2b2b;
+}

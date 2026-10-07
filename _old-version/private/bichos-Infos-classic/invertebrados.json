@@ -1,0 +1,356 @@
+{
+    "code": "inv",
+    "categName": "Invertebrados",
+    "animals": [
+        {
+            "id": 1,
+            "name": "NOME_ANIMAL_1",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 2,
+            "name": "NOME_ANIMAL_2",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 3,
+            "name": "NOME_ANIMAL_3",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 4,
+            "name": "NOME_ANIMAL_4",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 5,
+            "name": "NOME_ANIMAL_5",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 6,
+            "name": "NOME_ANIMAL_6",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 7,
+            "name": "NOME_ANIMAL_7",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 8,
+            "name": "NOME_ANIMAL_8",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 9,
+            "name": "NOME_ANIMAL_9",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 10,
+            "name": "NOME_ANIMAL_10",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 11,
+            "name": "NOME_ANIMAL_11",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 12,
+            "name": "NOME_ANIMAL_12",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 13,
+            "name": "NOME_ANIMAL_13",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 14,
+            "name": "NOME_ANIMAL_14",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 15,
+            "name": "NOME_ANIMAL_15",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 16,
+            "name": "NOME_ANIMAL_16",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 17,
+            "name": "NOME_ANIMAL_17",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 18,
+            "name": "NOME_ANIMAL_18",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 19,
+            "name": "NOME_ANIMAL_19",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 20,
+            "name": "NOME_ANIMAL_20",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 21,
+            "name": "NOME_ANIMAL_21",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 22,
+            "name": "NOME_ANIMAL_22",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 23,
+            "name": "NOME_ANIMAL_23",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 24,
+            "name": "NOME_ANIMAL_24",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        },
+        {
+            "id": 25,
+            "name": "NOME_ANIMAL_25",
+            "tips": {
+                "1": "DICA_1",
+                "2": "DICA_2",
+                "3": "DICA_3",
+                "4": "DICA_4",
+                "5": "DICA_5",
+                "6": "DICA_6",
+                "7": "DICA_7",
+                "8": "DICA_8"
+            }
+        }
+    ]
+}

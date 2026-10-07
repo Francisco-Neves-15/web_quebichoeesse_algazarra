@@ -1,0 +1,11 @@
+$breakpoints: (
+  sm: var(--breakpoint-small),
+  md: var(--breakpoint-medium),
+  lg: var(--breakpoint-large),
+);
+
+@mixin media($size) {
+  @media (max-width: map-get($breakpoints, $size)) {
+    @content;
+  }
+}

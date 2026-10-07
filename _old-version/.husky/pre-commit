@@ -1,0 +1,10 @@
+echo "Running validations before commit..."
+
+./valid-commit.bat
+STATUS=$?
+
+if [ $STATUS -ne 0 ]; then
+  echo "Validation failed! Commit aborted."
+  echo "To skip validation, use: git commit --no-verify -m 'Message' "
+  exit 1
+fi

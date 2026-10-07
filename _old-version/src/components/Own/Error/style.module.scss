@@ -1,0 +1,12 @@
+@use "@styles/scss/mixins.scss" as mixins;
+
+.hasErrorIcon {
+  @include mixins.center;
+  flex-direction: row;
+  gap: 0.5rem;
+}
+
+.errorDefault {
+  color: var(--danger);
+  font-size: 0.9rem;
+}

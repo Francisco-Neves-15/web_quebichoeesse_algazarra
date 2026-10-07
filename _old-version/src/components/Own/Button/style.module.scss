@@ -1,0 +1,56 @@
+@use "@styles/scss/mixins.scss" as mixins;
+@use "@styles/scss/variables" as vars;
+
+.btnBase {
+  @include mixins.center;
+  gap: 0.5rem;
+  padding: vars.$padding-ms vars.$padding-ml;
+
+  border: none;
+  border-radius: vars.$border-radius-md;
+
+  color: #ffffff;
+  & i { color: #ffffff; }
+  & svg { color: #ffffff; }
+  & p { 
+    color: #ffffff; 
+  }
+
+  cursor: pointer;
+  transition: filter 0.3s ease-in-out;
+  &:hover {
+    filter: brightness(125%);
+  }
+
+}
+
+.btnDisable {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.btnIcon {
+  aspect-ratio: 1/1;
+  padding: vars.$padding-md;
+  border-radius: vars.$border-radius-xl;
+}
+
+.btnPrimary { background-color: var(--primary-200); }
+.btnSecondary { background-color: var(--secondary-200); }
+.btnDanger { background-color: var(--danger); }
+.neutral { background-color: var(--neutral); }
+
+.btnGhost {
+  background-color: transparent;
+  transition: background-color 0.3s ease-in-out;
+  color: var(--text);
+  & i { color: var(--text); }
+  & svg { color: var(--text); }
+  & p { 
+    color: var(--text); 
+  }
+  &:hover {
+    filter: brightness(100%);
+    background-color: var(--neutral-opacity);
+  }
+}

@@ -1,0 +1,38 @@
+@mixin center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+};
+
+@mixin absoluted {
+  position: absolute;
+  top: 0;
+  left: 0;
+};
+
+@mixin absoluted_center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  // translate: -50% -50%;
+};
+
+@mixin absoluted_top {
+  position: absolute;
+  top: 0;
+  left: 0;
+};
+
+@mixin absoluted_bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+};
+
+@mixin truncate($lines: 1) {
+  display: -webkit-box;
+  -webkit-line-clamp: $lines;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+};
