@@ -57,3 +57,7 @@ env/
 # ides / editors
 .vscode/
 .idea/
+
+# card-scanner: generated debug/diagnostic images, not source material
+card-scanner/data/processed/*
+!card-scanner/data/processed/_.md

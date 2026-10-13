@@ -1,0 +1,97 @@
+{
+  "categorieCode": "tem",
+  "categorieShortCode": "templates",
+  "categorieName": "Templates",
+  "animals": [
+    {
+      "animalIndex": 1,
+      "animalCode": "q",
+      "animalName": "q",
+      "clues": [
+        "Tem 8 tentáculos. Po",
+        "Tem o corpo mole.",
+        "Seus pés saem da cabeça. | E",
+        "Seus tentáculos são cheios de ventosas,",
+        "É um parente próximo das lulas. o",
+        "Sou um molusco cefalópode comestível",
+        "Em inglês meu nome é “octopus”",
+        "É tímido, vive em buracos nas rochas ou dentro de qualquer objeto que achar no fundo do mar. Er"
+      ]
+    },
+    {
+      "animalIndex": 2,
+      "animalCode": "w",
+      "animalName": "w",
+      "clues": [
+        "Seus pés saem da cabeça. .",
+        "Fem o corpo mole.",
+        "Para nadar usa os seus 10 tentáculos e Of sifões exalante e inalante.",
+        "Sou polvo que é o companheiro de trabalho , mal humorado, do Bob Es (Desenho).",
+        "Para fugir dos predadores solta uma tinta, 4% sépia, que os confunde. e",
+        "Pode mudar de cor segundo o mele.. ambiente, a camuflagem. na",
+        "É um molusco e sua carne é muita estimada no mercado. Bio",
+        "Sou um parente muito próximo dos polvos."
+      ]
+    },
+    {
+      "animalIndex": 3,
+      "animalCode": "e",
+      "animalName": "e",
+      "clues": [
+        "Participou de um filme de sucesso junto com,",
+        "Na natureza existem mais de 40 mil tes diferentes desse inseto. * |. 88",
+        "Apresenta um aparelho bucal mastigador, asas e um par de antenas. A",
+        "Come tudo o que tem cheiro desag alimentam e vivem em esgotos e locais",
+        "Surgiu há mais de 350 milhões de anos € . podem ser encontradas dos trópicos ao Árico. À",
+        "Em um ano, uma fêmea pode gerar mois ce meio milhão de descendentes.",
+        "A radiação não as mata.",
+        "Quando entramos na cozinha à noite € acendemos a luz, correm desorientadas. 4"
+      ]
+    },
+    {
+      "animalIndex": 4,
+      "animalCode": "r",
+      "animalName": "r",
+      "clues": [
+        "Esses pequenos animais tomaram | inabitáveis, exterminaram povos e conseguiram ', mwdar o rumo de guerras.",
+        "Sou um inseto, tenho 6 patas e um par de É",
+        "Qualquer descuido no controle desses animáis É punido com mortes e doenças. A",
+        "Sobrevivem às custas do nosso sangue e transmitem um série de doenças para os",
+        "Sou um inseto alado (com asas). e",
+        "Adora zumbir em nossa orelha, espec quando estamos dormindo. ne",
+        "Numa única picada consegue absorver até três vezes O seu peso em sangue,",
+        "É um animal ovíparo que coloca muitos ovos de uma única vez."
+      ]
+    },
+    {
+      "animalIndex": 5,
+      "animalCode": "t",
+      "animalName": "t",
+      "clues": [
+        "É infernal, adora frequentar a sua cozinha e andar por cima da sua comida. <a",
+        "É um inseto social e dentro da sua comunidade | cada um desempenha o seu papel: operária,",
+        "Andam em fila, organizadamente, sem atropelos, trabalhando pelo bem comum. E",
+        "Tem 6 patas no abdome e um esqueleto externo.",
+        "O maior de seus representantes, de todo o mundo, | vive no Brasil, em Goiás e mede 4 centímetros.",
+        "É um inseto, mas não tem asas e apresenta todasas",
+        "Já fizeram até filme de desenho animado par ao mostrar como é a sociedade em que vivem esses.",
+        "Enquanto sobe em uma folha dá para observar que usa à mandíbula como se fosse uma tesoura, para picotar o vegetal e pode até carrega-lo nas costas."
+      ]
+    },
+    {
+      "animalIndex": 6,
+      "animalCode": "y",
+      "animalName": "y",
+      "clues": [
+        "O meu nome pode ter-se originado' na cidade de Tarento, na Itália, onde Lycosa torentula era abundante ou segundo Hecker de Torrantola, o que rasteja no",
+        "Nome em inglés: wolfspiders. Outros Nomes: de grama e de jardim",
+        "Na extremidade do meu abdome existem as glândulas fiandeiras, que produzem fios utilizados na confecção de teias ou de casulos onde meus ovos ficam abrigados.",
+        "Tenho o corpo dividido em duas partes:o cefalotóraxe o abdome e sou um artrópode, aquele que tem as | patas articuladas, e um esqueleto externo. Vo",
+        "Não tenho antenas mas tenho 8 patas.",
+        "Construo teias para capturar as minhas presas.",
+        "Sou astuta, caçadora, ágil e capturo minhas presas no | pulo e mato-as com minha peçonha.",
+        "Sou um Super-Herói das histórias em quadrinhos e um dos meus inimigos é o Duende Verde."
+      ]
+    }
+  ]
+}

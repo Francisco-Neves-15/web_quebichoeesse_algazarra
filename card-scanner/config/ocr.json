@@ -1,0 +1,6 @@
+{
+  "tesseract_cmd": "E:\\programs\\Tesseract-OCR\\tesseract.exe",
+  "lang": "por",
+  "psm": 6,
+  "oem": 3
+}
